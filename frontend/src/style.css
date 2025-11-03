@@ -1,0 +1,7 @@
+body { font-family: Inter, Arial, sans-serif; background:#f3f4f6; color:#111827; margin:0; }
+.card{ background:white; padding:16px; border-radius:8px; box-shadow:0 1px 3px rgba(0,0,0,0.06); }
+input, select { padding:8px; margin:6px 0; border-radius:6px; border:1px solid #e5e7eb; width:100%; }
+button { padding:10px 12px; border-radius:6px; border:none; cursor:pointer; }
+.btn-emerald{ background:#10b981; color:white; }
+ul { padding-left:20px; }
+li { margin:6px 0; }
